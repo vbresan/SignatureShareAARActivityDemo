@@ -1,0 +1,3 @@
+include ':signature-capture-aar'
+include ':signature-capture-base'
+include ':signature-share-aar-activity-demo'

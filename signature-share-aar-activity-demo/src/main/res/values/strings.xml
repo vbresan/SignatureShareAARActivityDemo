@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signature Share AAR Activity Demo</string>
+
+    <string name="Error">Error</string>
+    <string name="Cancel">Cancel</string>
+    
+    <string name="ErrorFolder">Can not open or create folder.</string>
+    <string name="CaptureNewSignature">Capture new signature</string>
+    
+    <string name="View">View</string>
+    <string name="Share">Share</string>
+    <string name="Rename">Rename</string>
+    <string name="Delete">Delete</string>
+    
+    <string name="PNG">.png</string>
+
+</resources>

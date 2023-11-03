@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/gradle/
+/signature-capture-aar/build/
+/signature-capture-aar/signature-capture-aar-latest.aar
+/signature-capture-base/build/
+/signature-capture-base/signature-capture-base-latest.aar
+/signature-share-aar-activity-demo/build/
+/gradlew
+/gradlew.bat
+/local.properties
